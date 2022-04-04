@@ -3,9 +3,7 @@
     "name": "QuickEdit",
     "description": "Edit websites quicker than ever",
     "version": "0.1",
-    "version_name": "0.1 beta",
-    "update_url": "",
-    "homepage_url": "",
+    "homepage_url": "https://github.com/DinoscapeProgramming/quickedit",
     "author": "Dinoscape",
     "browser_action": {
         "default_icon": "512x512.png",
